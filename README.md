@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**maurigarello/maurigarello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mauricio Garello
 
-Here are some ideas to get you started:
+# Personal Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hola! Mi nombre es Mauricio Garello y este es mi portfolio personal dedicado a mi carrera en el mundo del desarrollo de software.
+
+En este repositorio, comparto todos los elementos que componen a mi portfolio.
+
+El mismo consta de:
+
+> * Maquetado de la aplicación utilizando HTML5, CSS3 y Tailwind CSS.
+> * Diseño de componentes con React JS.
+> * Live Demo con Netlify.
+
+[VER CÓDIGO]([https://github.com/maukovenich/Coderhouse/tree/main/PizzAPP](https://github.com/maurigarello/maurigarello))
