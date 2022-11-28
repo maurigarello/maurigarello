@@ -13,4 +13,4 @@ El mismo consta de:
 > * Diseño de componentes con React JS.
 > * Live Demo con Netlify.
 
-[VER CÓDIGO]([https://github.com/maukovenich/Coderhouse/tree/main/PizzAPP](https://github.com/maurigarello/maurigarello))
+[VER CÓDIGO]([https://github.com/maurigarello/maurigarello])
